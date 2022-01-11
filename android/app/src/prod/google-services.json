@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "570551292597",
+    "project_id": "flavor-prod-1295d",
+    "storage_bucket": "flavor-prod-1295d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570551292597:android:a27333696809ab8754a4fc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_flavor_project.prod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570551292597-kvanls2i16tecof6mctkmvji1i1cpfje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYb-odIAd9ilQjMQWSfhqXiXKHsxTTJoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570551292597-kvanls2i16tecof6mctkmvji1i1cpfje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
